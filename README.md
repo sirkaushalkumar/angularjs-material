@@ -4,10 +4,10 @@
 [![Build Status](https://travis-ci.org/angular/material.svg)](https://travis-ci.org/angular/material)
 
 |S. No.|Environment|URL|
-|---|---|---|
-|1.0|:Dev:|https://dev.mywebsite.com|
-|2.0|:QA:|https://qa.mywebsite.com|
-|3.0|:Prod:|https://mywebsite.com|
+|---|:---:|---|
+|1.0|Dev|https://dev.mywebsite.com|
+|2.0|QA|https://qa.mywebsite.com|
+|3.0|Prod|https://mywebsite.com|
 
 <br/>
 <br/>
